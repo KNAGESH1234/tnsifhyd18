@@ -1,0 +1,1 @@
+package inst_static_members;
